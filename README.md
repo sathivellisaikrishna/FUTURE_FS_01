@@ -1,14 +1,14 @@
 # FUTURE_FS_01
 Personal Portfolio Website - Future Interns Task 1
-# 🚀 Personal Portfolio Website
+#  Personal Portfolio Website
 
-## 📌 Overview
+##  Overview
 This is a modern and responsive personal portfolio website built to showcase my skills, projects, and experience as a web developer.  
 The website features a futuristic UI design with smooth animations and interactive elements.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
@@ -17,7 +17,7 @@ The website features a futuristic UI design with smooth animations and interacti
 
 ---
 
-## ✨ Features
+##  Features
 - Responsive design (mobile & desktop friendly)  
 - Smooth scrolling navigation  
 - Scroll progress indicator  
@@ -29,14 +29,14 @@ The website features a futuristic UI design with smooth animations and interacti
 
 ---
 
-## 📂 Projects Included
+##  Projects Included
 - Personal Portfolio Website  
 - FB Fitness (Business Website)  
 
 ---
 
 ## 🌐 Live Demo
-👉 [View Portfolio]([https://your-live-link](https://sathivellisaikrishna.github.io/FUTURE_FS_01/))
+👉 [[[View Portfolio]([https://your-live-link](https://sathivellisaikrishna.github.io/FUTURE_FS_01/))](https://github.com/sathivellisaikrishna/FUTURE_FS_01)](https://sathivellisaikrishna.github.io/FUTURE_FS_01/)
 
 ---
 
@@ -48,4 +48,4 @@ The website features a futuristic UI design with smooth animations and interacti
 ## ⚙️ Setup & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name
+   git clone[ https://github.com/yourusername/repository-name](https://github.com/sathivellisaikrishna/FUTURE_FS_01)
