@@ -36,7 +36,7 @@ The website features a futuristic UI design with smooth animations and interacti
 ---
 
 ## 🌐 Live Demo
-👉 [https://your-live-link](https://sathivellisaikrishna.github.io/FUTURE_FS_01/)
+👉 [https://your-live-link](https://sathivellisaikrishna.github.io/FUTURE_FS_01/)https://sathivellisaikrishna.github.io/FUTURE_FS_01/
 ---
 
 ## 💻 GitHub Repository
